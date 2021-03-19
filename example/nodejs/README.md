@@ -2,6 +2,10 @@ cd to ./driver, and run `npm link`
 
 install Appium globally by running `npm i -g appium`
 
+`appium-doctor`
+export ANDROID_HOME=/Users/burak/Library/Android/sdk
+export JAVA_HOME=$(/usr/libexec/java_home)
+
 run appium server by running `appium`
 
 create a dir called `apps`, and put example files as download from https://github.com/truongsinh/appium-flutter-driver/releases/tag/v0.0.4 into that dir:
