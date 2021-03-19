@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "adb": "^0.2.0",
     "appium-flutter-finder": "^0.0.21",
-    "webdriverio": "^5.11.5"
+    "webdriverio": "^5.11.5",
+    "fs": "0.0.1-security"
   },
   "scripts": {
     "start": "node src/index.js",
